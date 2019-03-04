@@ -1,0 +1,6 @@
+Run the python file
+Then it will ask for the commands
+ADD "Name" "Phone"
+DEL "Name"
+DEL "Phone"
+LIST
